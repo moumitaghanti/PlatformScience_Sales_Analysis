@@ -49,7 +49,7 @@ For this demonstration, I am using the Jupyter Notebook, open-source web applica
 
 Step 1:
 
-Download/Clone the git repository.
+Download/Clone the git repository using $ git clone and the repository name.
 
 For Virtual Environment: Create a virtual enviroment and install dependencies by running requirements.txt.
 
