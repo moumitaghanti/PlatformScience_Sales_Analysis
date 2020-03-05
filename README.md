@@ -3,10 +3,15 @@
 Scope:
 
 Data analysis & visualization sales dataset with Python using Matplotlib, Pandas (Jupyter Notebook).
+
 Using Python, the following analysis of 'Sales.csv' are done.
+
 1: Total sales
+
 2: Total sales by month
+
 3: Total sales per zip code
+
 4: Breakdown of sales by teaching hospital vs non-teaching hospital
 
 
