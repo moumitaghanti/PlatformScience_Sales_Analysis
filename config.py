@@ -1,0 +1,2 @@
+api_key = "b6d30310591f250429107d880693d44e"
+gkey = "AIzaSyCdW8gDUfVEApQDieE7aCSvKE5tayg8DGE"
