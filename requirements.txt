@@ -229,7 +229,7 @@ tableschema==1.7.0
 tabulator==1.24.2
 tblib==1.3.2
 tensorboard==1.14.0
-tensorflow==1.14.0
+tensorflow==1.15.2
 tensorflow-estimator==1.14.0
 termcolor==1.1.0
 terminado==0.8.1
