@@ -2,7 +2,7 @@
 
 Scope:
 
-Data analysis & visualization sales dataset with Python using Matplotlib, Pandas (Jupyter Notebook).
+Data analysis & visualization sales dataset with Python using Matplotlib, Pandas, Jupyter Notebook.
 
 Using Python, the following analysis of 'Sales.csv' are done.
 
