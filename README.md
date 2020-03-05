@@ -3,10 +3,15 @@
 Scope:
 
 Data analysis & visualization sales dataset with Python using Matplotlib, Pandas (Jupyter Notebook).
+
 Using Python, the following analysis of 'Sales.csv' are done.
+
 1: Total sales
+
 2: Total sales by month
+
 3: Total sales per zip code
+
 4: Breakdown of sales by teaching hospital vs non-teaching hospital
 
 
@@ -18,13 +23,21 @@ sales.csv
 Objective:
 
 Sales data from csv file is read and pandas dataframe is created.
+
 Provided information about the dataset using describe() & info().
+
 Calculations are performed on Total Sales.
+
 Total Sales by month is calculated by Group by. A Bar chart is generated for visualization.
+
 Total Sales per zipcode is calculated by Group by and pivot table. A Bar chart is generated for visualization.
-A field is created to differenciate the Teaching vs Non Teaching Hospital type.
+
+A field is created to differenciate the Teaching vs Non Teaching Hospital type based on the field Teaching_Hospital_ID blank or not.
+
 A pivot table is generated to display the break down for the hospital type.
+
 A stacked bar graph is generated for visualizing the break down of the Teaching and Non Teaching Hospital Type.
+
 To create a geo visualization for the total sales across zipcode,  notebook heat_map_zipcode is created. Here top ranking zipcodes sorted with maximum total sales are stored. Then these zipcodes are coverted to latitude and longitide. Google heat map is created to visualize the spread of total sales weightage.
 
 
