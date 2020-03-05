@@ -42,11 +42,19 @@ $ pip install -r requirements.txt
 
 
 Step 2:
+
 Run the script.
 $ jupyter notebooks
 
 1. Sales_Analysis - For all the calculations and charts/graphs.
 
 
-2.Heat_map_zipcode- For the google heatmap for the zipcode with the weightage of Total Sales.
+Step 3:
+
+I have used my google key in the config.py. For secuirity, I have encrypted as google key. Proper google key should be updated in the config.py
+
+Run the script.
+$ jupyter notebooks
+
+1.Heat_map_zipcode- For the google heatmap for the zipcode with the weightage of Total Sales.
 
