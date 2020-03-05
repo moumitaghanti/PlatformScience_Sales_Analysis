@@ -30,7 +30,7 @@ Calculations are performed on Total Sales.
 
 Total Sales by month is calculated by Group by. A Bar chart is generated for visualization.
 
-Total Sales per zipcode is calculated by Group by and pivot table. A Bar chart is generated for visualization.
+Total Sales per zipcode is calculated by Group by and pivot table. A Bar chart is generated for visualization. Since there are many zipcodes, the chart is very populated. Filtering the dedicated zipcodes and then creating the charts would increase the performance.
 
 A field is created to differenciate the Teaching vs Non Teaching Hospital type based on the field Teaching_Hospital_ID blank or not.
 
@@ -77,3 +77,9 @@ $ jupyter notebooks
 
 1.Heat_map_zipcode- For the google heatmap for the zipcode with the weightage of Total Sales.
 
+ The folder Gmap_Images_Zipcode contains the google map visualizations.
+
+
+Step 4:
+
+In the folder Excel_Analysis sub folder is there. It contaings the excel analysis and visualizations.
