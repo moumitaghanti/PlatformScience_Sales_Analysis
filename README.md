@@ -48,9 +48,15 @@ For this demonstration, I am using the Jupyter Notebook, open-source web applica
 
 
 Step 1:
-Create a virtual enviroment and install dependencies by running requirements.txt.
+
+Download/Clone the git repository.
+
+For Virtual Environment: Create a virtual enviroment and install dependencies by running requirements.txt.
+
 $ pip install virtualenv env
+
 $ source env/bin/activate
+
 $ pip install -r requirements.txt
 
 
