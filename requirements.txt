@@ -243,7 +243,7 @@ TwitterAPI==2.5.10
 typed-ast==1.4.0
 uber-rides==0.6.0
 unicodecsv==0.14.1
-urllib3==1.24.1
+urllib3==1.24.2
 us==1.0.0
 virtualenv==16.7.9
 virtualenv-clone==0.5.3
